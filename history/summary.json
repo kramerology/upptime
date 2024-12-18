@@ -22,18 +22,20 @@
     "url": "https://gvmunifi.com/api/time",
     "icon": "https://icons.duckduckgo.com/ip3/gvmunifi.com.ico",
     "slug": "gvm-unifi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
+    "time": 78,
     "timeDay": 110,
-    "timeWeek": 84,
-    "timeMonth": 76,
-    "timeYear": 76,
-    "dailyMinutesDown": {}
+    "timeWeek": 87,
+    "timeMonth": 78,
+    "timeYear": 78,
+    "dailyMinutesDown": {
+      "2024-12-18": 0
+    }
   },
   {
     "name": "GVM Unifi Data Ingest",
