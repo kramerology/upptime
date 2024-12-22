@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 386,
-    "timeWeek": 388,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 351,
+    "timeDay": 289,
+    "timeWeek": 404,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gvmunifi.com.ico",
     "slug": "gvm-unifi-api",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 79,
-    "timeDay": 89,
-    "timeWeek": 88,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 78,
+    "timeDay": 49,
+    "timeWeek": 89,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
       "2024-12-18": 87
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 88,
-    "timeWeek": 85,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 75,
+    "timeDay": 47,
+    "timeWeek": 86,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   }
 ]
