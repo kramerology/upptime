@@ -1,7 +1,7 @@
 url: https://gvmunifi.com/api/time
-status: down
-code: 500
-responseTime: 13
-lastUpdated: 2025-11-18T11:53:46.566Z
+status: up
+code: 200
+responseTime: 106
+lastUpdated: 2025-11-18T13:21:47.983Z
 startTime: 2024-12-07T20:02:09.361Z
 generator: Upptime <https://github.com/upptime/upptime>
